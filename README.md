@@ -52,14 +52,8 @@ If you want to add your own bot create a pull request with your bot added. Pleas
 ## Contributors
 
 Special thanks to the all the contributors who have helped make Magmastream even better!
+<img src="https://contributers.code-fy.tech/Magmastream-NPM" width="300" referrerpolicy="no-referrer-when-downgrade">
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Credits
 
